@@ -3,7 +3,11 @@
 }
 
 .navbar{
-    background-color:cadetblue
+    background-color: cadetblue;
+}
+
+.navbar{
+    background-color:cadetblue;
 }
 
 .margin{
@@ -39,4 +43,8 @@
 .Solar-Panels
 {
     background-color: darkgrey ;
+}
+
+.h1{
+    text-align: center;
 }
