@@ -11,13 +11,13 @@
 }
 
 .margin{
-    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 25px;
 }
 
 .Modelo-3
 {
-    background-color: darkgrey;
-    
+    background-color: darkgrey; 
 }
 
 .Modelo-Y
@@ -47,4 +47,9 @@
 
 .h1{
     text-align: center;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
